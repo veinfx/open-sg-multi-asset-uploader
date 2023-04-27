@@ -1,0 +1,13 @@
+.idea/
+/build
+*.pyc
+*.log
+**.idea
+**pycache
+*.xml
+.idea/workspace.xml
+*.json
+*.spec
+__pycache__
+ui/__pycache__/
+#/blend_dummy_files
